@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    
+}
+.linhahorizontal{
+    background-color: #EBEDEF;
+    border: none;
+    height: 0.1em;
+    width: 100%;
+   
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0.7%;
+    font-family: sans-serif;
+}
+.g1{
+    color: #C3170C;
+}
+.oglobo{
+    color: #1E4B9B;
+}
+.valor{
+    color: #006766;
+}
+.ge{
+    color: #07AA47;
+}
+.cartola{
+    color: #e3662b;
+}
+.globoplay{
+    color: #FB0735;
+}
+.dropz{
+    color: #FF75BB;
+}
+.gshow{
+    color: #EC7D00;
+}
+.quem{
+    color: #323333;
+}
+.receitas{
+    color: #A81D83;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    
+}
+
+.principal h1{
+    font-family: encode sans-serif;
+    color: #C4160C;
+    font-size: 3.5em;
+    line-height: 1.1em;
+    letter-spacing: -1%;
+    width: 39rem;
+    height: 12.5rem;
+    margin-top: 1.85rem;
+    margin-right: 2.5rem; 
+}
+.incendio{
+    margin-left: 1rem;
+}
+.subway{
+    margin-left: 1rem;
+}
+h3{
+    margin: 0.25px 0rem 0.37rem 0rem;
+}
+.paragrafo1{
+    width: 622px;
+    height: 80px;
+    top: 422px;
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22.5px;
+    letter-spacing: -1%;
+}
+.paragrafo2{
+    width: 192px;
+    height: 19px;
+    color: #C4170C;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17,5;
+    letter-spacing: -2%;
+    margin: 5px 0px 4px 0px;
+}
+.paragrafo3{
+    color: #2F3134;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -4.8%; 
+    margin: 4px 0px 4px 0px;
+}
+.paragrafo4{
+    width: 240px;
+    height: 19px;
+    color: #16AE54;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17,5;
+    letter-spacing: -2%;
+    margin: 4px 0px 4px 0px;
+}
+.paragrafo5{
+    width: 240px;
+    height: 19px;
+    color: #EC8006;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17,5;
+    letter-spacing: -2%;
+    margin: 4px 0px 4px 0px;
+}
+.divimagens{
+    display: flex;
+    justify-content: space-around;
+    width: 624px;
+    height: 260px;
+    margin-top: 22px;
+   
+}
+.divtextos{
+    display: flex;
+    justify-content: space-around;
+    width: 624px;
+    height: 260px;
+    margin-top: 22px;
+  
+}
+.linhavertical{
+    margin-top: 2.5%;
+    margin-left: 40px;
+    border-left: 2px solid #EBEDEF; /*Criar a linha vertical*/
+    height: 740px; /* define a altura da linha*/
+
+}
+.futbol{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.futbol1{
+    margin-bottom: 30px;
+}
+.futbol2{
+    margin-bottom: 30px;
+}
+.futbol3{
+    margin-bottom: 30px;
+}
+.informacao{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.noticia1{
+    margin-bottom: 40px;
+}
+.noticia2{
+    margin-bottom: 40px;
+}
+.futbol3{
+    margin-bottom: 40px;
+}
